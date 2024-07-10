@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:KistPack_Wpf"
         xmlns:viewModel="clr-namespace:KistPack_Wpf.MVVM.ViewModel"
         mc:Ignorable="d"
-        Height="600" Width="920"
+        Height="1024" Width="1500"
         WindowStyle="none"
         ResizeMode="NoResize"
         Background="Transparent"
